@@ -1,0 +1,16 @@
+config.env
+frontend/.env/
+frontend/.chainlit/
+frontend/.files/
+frontend/__pycache__/
+backend/.env/
+backend/data/.ipynb_checkpoints
+backend/data/knowlage_base/
+backend/data/div_based.csv
+backend/data/FM23_roles_clean.xlsx
+backend/data/fm23data.xlsx
+backend/data/fm2023.csv
+backend/data/real_name_fix.lnc
+backend/Players_agent.ipynb
+backend/RAG.ipynb
+.idea/

@@ -1,0 +1,11 @@
+.env/
+data/.ipynb_checkpoints
+data/knowlage_base/
+data/div_based.csv
+data/FM23_roles_clean.xlsx
+data/fm23data.xlsx
+data/fm2023.csv
+data/real_name_fix.lnc
+Players_agent.ipynb
+RAG.ipynb
+xlsx_to_sqlite.py
